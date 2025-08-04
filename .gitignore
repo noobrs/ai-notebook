@@ -194,3 +194,6 @@ images/
 models/
 Practical 4 Natural Language Processing/
 Week 4/
+datasets/
+imdb_tvshows.csv
+IMDB-Dataset.csv
